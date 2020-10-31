@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentralizedBandwidth", "DecentralizedBandwidth\DecentralizedBandwidth.csproj", "{82A0EA51-23D5-4AEB-99B3-72BE4CEAEC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A0EA51-23D5-4AEB-99B3-72BE4CEAEC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A0EA51-23D5-4AEB-99B3-72BE4CEAEC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A0EA51-23D5-4AEB-99B3-72BE4CEAEC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A0EA51-23D5-4AEB-99B3-72BE4CEAEC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37368D6-5F3B-4A76-99F2-6C17325A5EC6}
+	EndGlobalSection
+EndGlobal

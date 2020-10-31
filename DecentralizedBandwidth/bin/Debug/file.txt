@@ -1,0 +1,7 @@
+Fast flux is a DNS technique used by botnets to hide phishing and malware delivery sites behind an ever-changing network of compromised hosts acting as proxies. It can also refer to the combination of peer-to-peer networking, distributed command and control, web-based load balancing and proxy redirection used to make malware networks more resistant to discovery and counter-measures. The Storm Worm (2007) is one of the first malware variants to make use of this technique.
+
+The basic idea behind Fast flux is to have numerous IP addresses associated with a single fully qualified domain name, where the IP addresses are swapped in and out with extremely high frequency, through changing DNS records.[1]
+
+Internet users may see fast flux used in phishing attacks linked to criminal organizations, including attacks on social network services.
+
+While security researchers have been aware of the technique since at least November 2006, the technique only received wider attention in the 
