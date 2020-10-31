@@ -12,8 +12,8 @@ namespace DecentralizedBandwidth
         public static void Main()
         {
             string x = MetaInfoServer.grabPublicIP().Result;
-            byte[] file = File.ReadAllBytes("lol.txt");
-            Transaction t = new Transaction("lol.txt", file, "Padraig", DateTime.Now.AddDays(1));
+            byte[] file = File.ReadAllBytes("file.txt");
+            Transaction t = new Transaction("file.txt", file, "Padraig", DateTime.Now.AddDays(1));
         }
         
     }

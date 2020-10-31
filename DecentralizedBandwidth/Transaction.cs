@@ -64,6 +64,8 @@ public class Transaction : Serializer
         return Pieces.ToArray();
     }
 
+    //join each piece hash together in sequential order
+    //so other nodes can confirm
     private string createPiecesHash()
     {
         IEnumerable<string> hashes = from piece in Pieces select piece.Piece_Hash;
